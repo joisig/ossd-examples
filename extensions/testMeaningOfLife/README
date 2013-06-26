@@ -1,0 +1,5 @@
+This extension tests a local change I made to Chrome to add a "Meaning
+of Life" extension API.
+
+I will make my implementation on the Chrome side public once all
+project teams have had a chance to make a similar change themselves.
